@@ -1,0 +1,4 @@
+case 1: ?y??n
+case : POSSIBLE
+case 2: ???y
+case : IMPOSSIBLE
